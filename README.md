@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Designyourbrandpro](https://www.designyourbrandpro.com/)
+- 🔭 I’m currently working on [SYSCROWD](https://www.syscrowd.com//)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Software engineer**
 
 - 👯 I’m looking to collaborate on [Grumpybeartown](https://grumpybeartown.netlify.app/)
 
