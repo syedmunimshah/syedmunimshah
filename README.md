@@ -35,6 +35,28 @@ A multi-role marketplace (Customer / Seller / Admin) built end-to-end with ASP.N
 
 ---
 
+### 📁 Other Projects
+
+- **[Spendly](https://github.com/syedmunimshah/spendly)** — expense tracker: log spending, group it by category, and see where the month actually went. `JavaScript` · `CSS`
+- **[Portfolio](https://abdulmunim.netlify.app/)** — my personal site, hand-built as a static page with no framework and no build step. `HTML` · `CSS` · `Vanilla JS` · `Netlify`
+
+---
+
+### 💼 Experience
+
+**Software Engineer** — *Abic Partners* · 2025 – Present
+Building ERP and HCM modules for enterprise clients. SQL Server query optimisation on reporting endpoints, dynamic UI with jQuery and Kendo UI, and build/release deployments through Jenkins alongside QA and Business teams.
+
+**Software Engineer** — *Syscrowd* · 2023 – 2025
+Secure REST APIs with ASP.NET Core and EF Core. JWT authentication with role-based authorization, stored-procedure tuning in SQL Server, automated Excel import / PDF generation / email workflows, and IIS deployments.
+
+**Frontend Developer** — *Adroit Global Technology Services · The Next Rex* · 2021 – 2023
+Converted PSD designs into mobile-responsive, cross-browser client websites with HTML, CSS, Bootstrap, JavaScript, React and jQuery.
+
+**B.Sc. Computer Science** — Iqra University, Karachi · 2017 – 2021
+
+---
+
 ### 🛠 Tech Stack
 
 **Backend**
@@ -79,11 +101,12 @@ A multi-role marketplace (Customer / Seller / Admin) built end-to-end with ASP.N
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=syedmunimshah&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedmunimshah&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/syedmunimshah?style=for-the-badge&logo=github&label=Followers&labelColor=181717&color=0A66C2" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/syedmunimshah?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&labelColor=181717&color=0A66C2" alt="Stars" />
+  <img src="https://img.shields.io/github/last-commit/syedmunimshah/Ecommerece-Backend-Dotnet-and-Fronted-React?style=for-the-badge&logo=git&label=Last%20commit&labelColor=181717&color=0A66C2" alt="Last commit" />
 </p>
 
 ---
