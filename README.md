@@ -17,6 +17,8 @@ Most of my professional work has been in **ERP / HCM systems** — the kind of d
 
 I ship what I build: my projects run in CI, build as Docker images, and deploy to **Azure App Service** from GitHub Actions — not just `dotnet run` on a laptop.
 
+Alongside that I build **AI features into .NET** — RAG pipelines and agent orchestration with **Semantic Kernel** and **Azure OpenAI**, MCP servers in C#, and ML.NET models served through Web APIs — and I use **Claude Code** and **Cursor** daily, reviewing everything they produce.
+
 💼 **Open to .NET backend roles** — Karachi, remote (Pakistan), or remote international.
 
 ---
@@ -86,6 +88,15 @@ Converted PSD designs into mobile-responsive, cross-browser client websites with
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+**AI Engineering**
+
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square&logo=databricks&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_(C%23_SDK)-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Vector Search](https://img.shields.io/badge/Vector_Search-4B32C3?style=flat-square&logo=elasticsearch&logoColor=white)
+![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
 **Cloud & DevOps**
 
 ![Azure](https://img.shields.io/badge/Azure_App_Service-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -124,6 +135,15 @@ I use **Claude Code** and **Cursor** as part of my normal workflow — and I rev
 - **Spec-first workflow** — [Spendly](https://github.com/syedmunimshah/spendly) is built one written spec at a time: define the behaviour, generate tests from the spec rather than the implementation, then implement against them
 - **Automated review passes** — separate security and code-quality review agents run over each change before it's merged, on top of my own reading of the diff
 - Comfortable judging where these tools help and where they don't — which is increasingly part of the job rather than a novelty
+
+**Building with AI, not just coding with it** — alongside using AI tooling, I build AI features into .NET applications:
+
+- **RAG pipelines** — document ingestion with chunking and embedding generation, vector search over Azure AI Search, and re-ranking before answer synthesis, orchestrated with **Semantic Kernel** behind an ASP.NET Core Web API
+- **MCP servers in C#** — exposing semantic search over enterprise documents to AI clients like Claude Code and Cursor, hosted as a minimal API over Streamable HTTP with API-key auth
+- **Agent orchestration** — multi-step planning, tool use and self-correcting reasoning loops with specialised sub-agents and long-horizon memory persisted in SQL Server
+- **Classical ML where it fits** — **ML.NET** with LightGBM for imbalanced-data classification, served for real-time scoring through a Web API
+
+📜 **Certified:** Claude 101 — Anthropic
 
 ---
 
