@@ -1,23 +1,25 @@
 <h1 align="center">Syed Abdul Munim Ali Shah</h1>
-<h3 align="center">.NET Backend Engineer · ASP.NET Core · C# · SQL Server · EF Core</h3>
+<h3 align="center">.NET Backend Engineer · AI Engineer</h3>
+<p align="center">ASP.NET Core · C# · SQL Server · EF Core · Semantic Kernel · Azure OpenAI · RAG · MCP</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syedabdulmunimalishah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://abdulmunim.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:syedmuunim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Claude_101-Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude 101 — Anthropic" />
 </p>
 
 ---
 
 ### About
 
+🤖 **I build AI into .NET applications** — RAG pipelines and agent orchestration with **Semantic Kernel** and **Azure OpenAI**, **MCP servers in C#**, vector search, and **ML.NET** models served through Web APIs. I also use **Claude Code** and **Cursor** daily, and review everything they produce. Certified **Claude 101** (Anthropic).
+
 Backend engineer with **4+ years** of experience building and shipping web applications with **ASP.NET Core** and **SQL Server**. I started out in front-end development and moved into backend, which means I design APIs with a clear picture of how they'll actually be consumed.
 
 Most of my professional work has been in **ERP / HCM systems** — the kind of domain where data integrity, transactional correctness, and query performance genuinely matter. I care about clean layered architecture, writing code that's straightforward to test, and not leaving landmines for whoever maintains it next.
 
 I ship what I build: my projects run in CI, build as Docker images, and deploy to **Azure App Service** from GitHub Actions — not just `dotnet run` on a laptop.
-
-Alongside that I build **AI features into .NET** — RAG pipelines and agent orchestration with **Semantic Kernel** and **Azure OpenAI**, MCP servers in C#, and ML.NET models served through Web APIs — and I use **Claude Code** and **Cursor** daily, reviewing everything they produce.
 
 💼 **Open to .NET backend roles** — Karachi, remote (Pakistan), or remote international.
 
