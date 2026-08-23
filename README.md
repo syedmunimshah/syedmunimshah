@@ -1,6 +1,6 @@
 <h1 align="center">Syed Abdul Munim Ali Shah</h1>
-<h3 align="center">.NET Backend Engineer · AI Engineer</h3>
-<p align="center">ASP.NET Core · C# · SQL Server · EF Core · Semantic Kernel · Azure OpenAI · RAG · MCP</p>
+<h3 align="center">AI Engineer · Generative AI · .NET &amp; SQL Backend Engineer</h3>
+<p align="center">LangChain · LangGraph · RAG · MCP · Playwright · FastAPI · C# · ASP.NET Core · SQL Server</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/syedabdulmunimalishah/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,9 +13,9 @@
 
 ### About
 
-🤖 **I build AI into .NET applications** — RAG pipelines and agent orchestration with **Semantic Kernel** and **Azure OpenAI**, **MCP servers in C#**, vector search, and **ML.NET** models served through Web APIs. I also use **Claude Code** and **Cursor** daily, and review everything they produce. Certified **Claude 101** (Anthropic).
+🤖 **AI Engineer** with hands-on experience building production **LLM applications**, **RAG pipelines**, and large-scale **data extraction systems**. Proficient in **LangChain**, **LangGraph**, and **MCP**-based AI tooling, with web scraping in **Playwright** and **FastAPI** microservices. I use **Claude Code** and **Cursor** daily, and review everything they produce. Certified **Claude 101** (Anthropic).
 
-Backend engineer with **4+ years** of experience building and shipping web applications with **ASP.NET Core** and **SQL Server**. I started out in front-end development and moved into backend, which means I design APIs with a clear picture of how they'll actually be consumed.
+Backend engineering base in **C#**, **ASP.NET Core** and **SQL Server** — REST API design, JWT authentication and SQL query optimization. I started out in front-end development and moved into backend, which means I design APIs with a clear picture of how they'll actually be consumed.
 
 Most of my professional work has been in **ERP / HCM systems** — the kind of domain where data integrity, transactional correctness, and query performance genuinely matter. I care about clean layered architecture, writing code that's straightforward to test, and not leaving landmines for whoever maintains it next.
 
@@ -44,6 +44,10 @@ A multi-role marketplace (Customer / Seller / Admin) built end-to-end with ASP.N
 
 ### 📁 Other Projects
 
+- **Multimodal RAG Knowledge Assistant** — document assistant with pgvector semantic search and LangGraph multi-step reasoning pipelines; prompt and context engineering to improve retrieval accuracy over large knowledge bases. `Python` · `LangChain` · `LangGraph` · `pgvector`
+- **Deep Research Agent System** — autonomous deep agents with LangGraph for multi-step planning, tool use and self-correcting reasoning loops; specialised sub-agents with task decomposition, long-horizon memory and RAG-backed retrieval. `Python` · `LangGraph` · `Deep Agents` · `RAG`
+- **[EdgeCart](https://github.com/syedmunimshah/Ecommerece-Backend-Dotnet-and-Fronted-React)** — full-stack ecommerce marketplace with a layered API / Service / Repository architecture, JWT auth with role-based authorization, and Stripe Checkout with webhook confirmation. `C#` · `ASP.NET Core` · `Next.js` · `SQL Server`
+- **Enterprise Data Warehouse & Analytics** — 3-layer warehouse (bronze, silver, gold) integrating ERP and CRM sources, with automated ETL and star/snowflake schemas. `SQL Server` · `SSIS` · `T-SQL` · `Git`
 - **[Spendly](https://github.com/syedmunimshah/spendly)** — expense tracker: log spending, group it by category, and filter by date range. Built spec-first, one feature at a time, with a test suite covering every route. Four dependencies, no ORM, no CSS framework, no build step. `Python` · `Flask` · `SQLite` · `pytest`
 - **[Portfolio](https://abdulmunim.netlify.app/)** — my personal site, hand-built as a static page with no framework and no build step. `HTML` · `CSS` · `Vanilla JS` · `Netlify`
 
@@ -51,8 +55,8 @@ A multi-role marketplace (Customer / Seller / Admin) built end-to-end with ASP.N
 
 ### 💼 Experience
 
-**Software Engineer** — *Abic Partners* · 2025 – Present
-Building ERP and HCM modules for enterprise clients. SQL Server query optimisation on reporting endpoints, dynamic UI with jQuery and Kendo UI, and build/release deployments through Jenkins alongside QA and Business teams.
+**AI Engineer / Software Engineer** — *Abic Partners* · 2025 – Present
+LLM-powered review-intelligence pipelines pulling brand name, star rating and full review detail from Google, Trustpilot and Clutch with Playwright; an executive lead-extraction system over LinkedIn; both served as FastAPI microservices. Claude Code automations, agents and MCP servers. Alongside that, ERP and HCM modules in ASP.NET Core, SQL Server query optimisation, Kendo UI, and Jenkins release deployments.
 
 **Software Engineer** — *Syscrowd* · 2023 – 2025
 Secure REST APIs with ASP.NET Core and EF Core. JWT authentication with role-based authorization, stored-procedure tuning in SQL Server, automated Excel import / PDF generation / email workflows, and IIS deployments.
@@ -92,12 +96,14 @@ Converted PSD designs into mobile-responsive, cross-browser client websites with
 
 **AI Engineering**
 
-![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square&logo=databricks&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_(C%23_SDK)-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-4B32C3?style=flat-square&logo=elasticsearch&logoColor=white)
-![ML.NET](https://img.shields.io/badge/ML.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_%26_Context_Engineering-4B32C3?style=flat-square)
 
 **Cloud & DevOps**
 
@@ -140,10 +146,10 @@ I use **Claude Code** and **Cursor** as part of my normal workflow — and I rev
 
 **Building with AI, not just coding with it** — alongside using AI tooling, I build AI features into .NET applications:
 
-- **RAG pipelines** — document ingestion with chunking and embedding generation, vector search over Azure AI Search, and re-ranking before answer synthesis, orchestrated with **Semantic Kernel** behind an ASP.NET Core Web API
-- **MCP servers in C#** — exposing semantic search over enterprise documents to AI clients like Claude Code and Cursor, hosted as a minimal API over Streamable HTTP with API-key auth
-- **Agent orchestration** — multi-step planning, tool use and self-correcting reasoning loops with specialised sub-agents and long-horizon memory persisted in SQL Server
-- **Classical ML where it fits** — **ML.NET** with LightGBM for imbalanced-data classification, served for real-time scoring through a Web API
+- **RAG pipelines** — document ingestion with chunking and embedding generation, **pgvector** semantic search, and re-ranking before answer synthesis, with **LangGraph** multi-step reasoning
+- **Deep agents** — multi-step planning, tool use and self-correcting reasoning loops, with specialised sub-agents, task decomposition and long-horizon memory
+- **Review-intelligence pipelines** — brand name, star rating and full review detail pulled from Google, Trustpilot and Clutch with **Playwright**, served as **FastAPI** microservices with async workers, retry/backoff and anti-bot handling
+- **MCP servers** — exposing semantic search over enterprise documents to AI clients like Claude Code and Cursor
 
 📜 **Certified:** Claude 101 — Anthropic
 
