@@ -44,7 +44,7 @@ A multi-role marketplace (Customer / Seller / Admin) built end-to-end with ASP.N
 
 ### 📁 Other Projects
 
-- **Multimodal RAG Knowledge Assistant** — document assistant with pgvector semantic search and LangGraph multi-step reasoning pipelines; prompt and context engineering to improve retrieval accuracy over large knowledge bases. `Python` · `LangChain` · `LangGraph` · `pgvector`
+- **RAG Knowledge Assistant** — document assistant with pgvector semantic search and LangGraph multi-step reasoning pipelines; prompt and context engineering to improve retrieval accuracy over large knowledge bases. `Python` · `LangChain` · `LangGraph` · `pgvector`
 - **Deep Research Agent System** — autonomous deep agents with LangGraph for multi-step planning, tool use and self-correcting reasoning loops; specialised sub-agents with task decomposition, long-horizon memory and RAG-backed retrieval. `Python` · `LangGraph` · `Deep Agents` · `RAG`
 - **[EdgeCart](https://github.com/syedmunimshah/Ecommerece-Backend-Dotnet-and-Fronted-React)** — full-stack ecommerce marketplace with a layered API / Service / Repository architecture, JWT auth with role-based authorization, and Stripe Checkout with webhook confirmation. `C#` · `ASP.NET Core` · `Next.js` · `SQL Server`
 - **Enterprise Data Warehouse & Analytics** — 3-layer warehouse (bronze, silver, gold) integrating ERP and CRM sources, with automated ETL and star/snowflake schemas. `SQL Server` · `SSIS` · `T-SQL` · `Git`
