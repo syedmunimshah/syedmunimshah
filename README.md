@@ -55,7 +55,7 @@ A multi-role marketplace (Customer / Seller / Admin) built end-to-end with ASP.N
 
 ### 💼 Experience
 
-**AI Engineer / Software Engineer** — *Abic Partners* · 2025 – Present
+**AI Engineer / Software Engineer** — *Mudita (Pvt) Ltd Partners* · 2025 – Present
 LLM-powered review-intelligence pipelines pulling brand name, star rating and full review detail from Google, Trustpilot and Clutch with Playwright; an executive lead-extraction system over LinkedIn; both served as FastAPI microservices. Claude Code automations, agents and MCP servers. Alongside that, ERP and HCM modules in ASP.NET Core, SQL Server query optimisation, Kendo UI, and Jenkins release deployments.
 
 **Software Engineer** — *Syscrowd* · 2023 – 2025
